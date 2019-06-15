@@ -8,5 +8,5 @@ module.exports = {
     email : 'sonthaya.b@honey.co.th',
     git : 'https://github.com/jackrobotics/node32-lite/',
     image : '/static/display.png',
-    version : '1.0.0'
+    version : '0.0.9'
 };

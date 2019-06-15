@@ -1,0 +1,1 @@
+# kbpro-node32-lite-board

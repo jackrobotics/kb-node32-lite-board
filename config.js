@@ -1,8 +1,8 @@
 module.exports = {    
-    name : 'node32-lite',
+    name : 'kb-node32-lite-board',
     platform : 'arduino-esp32',
     title : 'NOTE32-Lite',
-    description : 'ESP32-my Doit.\n',
+    description : 'Node32-lite\n',
     author : 'Comdet Phueadphut',
     website : 'https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-wrover-kit.html',
     email : 'sonthaya.b@honey.co.th',

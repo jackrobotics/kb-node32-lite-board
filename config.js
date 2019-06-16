@@ -8,5 +8,5 @@ module.exports = {
     email : 'sonthaya.b@honey.co.th',
     git : 'https://github.com/jackrobotics/kb-node32-lite-board/',
     image : '/static/display.png',
-    version : '1.0.0'
+    version : '1.0.1'
 };

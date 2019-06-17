@@ -4,9 +4,9 @@ module.exports = {
     title : 'Node32-Lite',
     description : 'Node32-lite\n',
     author : 'Sonthaya Boonchan',
-    website : 'https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-wrover-kit.html',
+    website : 'http://www.ayarafun.com/tag/node32lite/',
     email : 'sonthaya.b@honey.co.th',
     git : 'https://github.com/jackrobotics/kb-node32-lite-board/',
     image : '/static/display.png',
-    version : '1.0.2'
+    version : '1.0.3'
 };
